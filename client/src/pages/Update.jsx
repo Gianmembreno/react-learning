@@ -29,7 +29,6 @@ const Update = () => {
         } catch (err) {
             console.error(err.message);
         }
-
     }
 
     console.log(book);
